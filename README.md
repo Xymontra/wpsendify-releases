@@ -1,6 +1,6 @@
 # ⚡ WPSendify — Desktop Application Releases
 
-[![Version](https://img.shields.io/badge/version-v1.0.5-indigo.svg?style=flat-square)](https://wpsendify.app/changelog)
+[![Version](https://img.shields.io/badge/version-v1.0.6-indigo.svg?style=flat-square)](https://wpsendify.app/changelog)
 [![Platform](https://img.shields.io/badge/platform-Windows_10_%2F_11-blue.svg?style=flat-square)](https://wpsendify.app)
 [![License](https://img.shields.io/badge/license-proprietary-red.svg?style=flat-square)](https://wpsendify.app)
 

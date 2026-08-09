@@ -1,8 +1,8 @@
-version: 2.1.1
+version: 2.1.2
 files:
   - url: WPSendifyInstaller.exe
-    sha512: 7YpownHEVyLKsw5xDl3sdCIXCaiUXxsvmm4MfnUWkqPUhAEj9pjOvWOHmX96p0TfUqJoSlv/JJxrWtFM0sa9PQ==
-    size: 87499872
+    sha512: VVvylkvRmv5fRxCr39RAjuFoluj5ej9WAPOvVUM1CnSStP9tz4zLi9oooNkt0GoPfB/luA0llqaAzznkvgsY+Q==
+    size: 87499642
 path: WPSendifyInstaller.exe
-sha512: 7YpownHEVyLKsw5xDl3sdCIXCaiUXxsvmm4MfnUWkqPUhAEj9pjOvWOHmX96p0TfUqJoSlv/JJxrWtFM0sa9PQ==
-releaseDate: '2026-08-09T17:28:03.045Z'
+sha512: VVvylkvRmv5fRxCr39RAjuFoluj5ej9WAPOvVUM1CnSStP9tz4zLi9oooNkt0GoPfB/luA0llqaAzznkvgsY+Q==
+releaseDate: '2026-08-09T17:39:52.359Z'

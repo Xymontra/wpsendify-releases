@@ -1,2 +1,2 @@
-﻿WPSendify.exe filter=lfs diff=lfs merge=lfs -text
+WPSendify.exe filter=lfs diff=lfs merge=lfs -text
 WPSendify.exe.blockmap filter=lfs diff=lfs merge=lfs -text
